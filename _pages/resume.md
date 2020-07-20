@@ -41,12 +41,12 @@ Bogota, Colombia
 # Licenses & Certifications
 **Tableau 2020 A-Z: Hands-On Tableau Training for Data Science** - July 2020
 Udemy
-[See Credential] (https://www.udemy.com/certificate/UC-878a5780-0d5c-44ef-b6c4-a2229f943dee/)
+[See Credential](https://www.udemy.com/certificate/UC-878a5780-0d5c-44ef-b6c4-a2229f943dee/)
 
 **Microsoft Power BI - Publishing to Power BI Service** - May 2020
 Udemy
-[See Credential] (https://www.udemy.com/certificate/UC-784dec9c-b7c4-420c-b0d9-a67311d95e56/)
+[See Credential](https://www.udemy.com/certificate/UC-784dec9c-b7c4-420c-b0d9-a67311d95e56/)
 
 **Microsoft Power BI - Up & Running With Power BI Desktop** - Apr 2020
 Udemy
-[See Credential] (https://www.udemy.com/certificate/UC-e070c154-2db6-4316-927b-085abaf34d31/)
+[See Credential](https://www.udemy.com/certificate/UC-e070c154-2db6-4316-927b-085abaf34d31/)
