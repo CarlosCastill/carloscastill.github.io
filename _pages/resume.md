@@ -2,7 +2,7 @@
 title: <div align="center"> Resume
 permalink: /resume/
 ---
-            Data Science - Data Analytics - Business Intelligence
+<div align="center"> Data Science - Data Analytics - Business Intelligence
 
 # Experience
 **Product Representative** - Nov 2017 to Present                                  
