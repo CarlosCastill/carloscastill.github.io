@@ -5,6 +5,4 @@ header:
   #image: "/images/resume_pic.jpeg"
 ---
 
-Data Science | Data Analytics | Business Intelligence
-
-Data Science Data Analytics | Data Visualisation
+<div align="center"> Data Science - Data Analytics - Business Intelligence
