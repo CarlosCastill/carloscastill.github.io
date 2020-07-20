@@ -4,5 +4,5 @@ permalink: /data-wrangling/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/projects_pic.jgp"
+  #image: "/images/projects_pic.jgp"
 ---
