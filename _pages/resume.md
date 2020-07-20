@@ -2,7 +2,7 @@
 title: <div align="center"> Resume
 permalink: /resume/
 ---
-## <div style="text-align:center">Data Science - Data Analytics - Business Intelligence
+<div style="text-align:center">Data Science - Data Analytics - Business Intelligence
 
 
 # <div align="left">Experience
