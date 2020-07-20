@@ -5,11 +5,9 @@ permalink: /resume/
 ---
 
 # Experience
-**Product Representative** - Nov 2017 to Present
-
-Pegasus Healthcare
-
-Melbourne, Australia
+### **Product Representative** - Nov 2017 to Present
+### Pegasus Healthcare
+### Melbourne, Australia
 
 
 **Grocery Manager & Purchasing Officer**  - Oct 2015 to Oct 2017
