@@ -1,9 +1,9 @@
 ---
-title: <div align="center"> Resume
+title: <div align="center"> # Resume
 permalink: /resume/
 subtitle: <div align="center"> Data Science - Data Analytics - Business Intelligence
 ---
-# [Click here to see my portfolio](https://carloscastill.github.io)
+
 # Experience
 **Product Representative** - Nov 2017 to Present                                  
 Pegasus Healthcare, Melbourne, Aus
