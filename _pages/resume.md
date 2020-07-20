@@ -10,7 +10,7 @@ Pegasus Healthcare
 Melbourne, Australia
 
 
-**Grocery Manager & Purchasing Officer                      Oct 2015 to Oct 2017**
+**Grocery Manager & Purchasing Officer** - Oct 2015 to Oct 2017                       
 About Life Pty Ltd                                                             
 Sydney, Australia
 
