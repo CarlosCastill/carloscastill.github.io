@@ -1,8 +1,10 @@
 ---
-title: "Resume"
+title: <div align="center"> "Resume"
 permalink: /resume/
 header:
   #image: "/images/resume_pic.jpeg"
 ---
 
-Hola Hola
+
+
+Data Science | Data Analytics | Data Visualisation
