@@ -5,7 +5,7 @@ permalink: /resume/
 <div align="center">Data Science - Data Analytics - Business Intelligence
 
 
-<div align="left">________________________________________________________
+
 # Experience
 **Product Representative** - Nov 2017 to Present                                  
 Pegasus Healthcare, Melbourne, Aus
