@@ -1,7 +1,7 @@
 ---
 title: <div align="center"> Resume
 permalink: /resume/
-<div align="center"> Data Science - Data Analytics - Business Intelligence
+subtitle: <div align="center"> Data Science - Data Analytics - Business Intelligence
 ---
 
 # Experience
@@ -10,10 +10,8 @@ Pegasus Healthcare
 Melbourne, Australia
 
 
-**Grocery Manager & Purchasing Officer**  - Oct 2015 to Oct 2017
-
-About Life Pty Ltd
-
+**Grocery Manager & Purchasing Officer**  - Oct 2015 to Oct 2017                        
+About Life Pty Ltd                                                             
 Sydney, Australia
 
 
