@@ -2,7 +2,7 @@
 title: <div align="center"> Resume
 permalink: /resume/
 ---
-<span style="color:red; font-family:Georgia; font-size:2em;">Data Science - Data Analytics - Business Intelligence
+##Data Science - Data Analytics - Business Intelligence
 
 
 
