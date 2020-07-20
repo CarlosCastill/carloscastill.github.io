@@ -13,40 +13,40 @@ Melbourne, Australia
 About Life Pty Ltd                                                             
 Sydney, Australia
 
-**Data Analyst & Program Manager** - Jan 2013 to Apr 2015
-IBM
+**Data Analyst & Program Manager** - Jan 2013 to Apr 2015                           
+IBM                                                                                 
+Bogota, Colombia                                                                                 
+
+**Financial Analyst** Jan 2012 to Dec 2012                           
+IBM                                                                                 
 Bogota, Colombia
 
-**Financial Analyst** Jan 2012 to Dec 2012
-IBM
+**Data Analyst** - Aug 2010to Dec 2011                                                      
+IBM                                                                                 
 Bogota, Colombia
 
-**Data Analyst** - Aug 2010to Dec 2011
-IBM
-Bogota, Colombia
-
-**Internship** Jan 2010 to Jul 2010
-IBM
+**Internship** Jan 2010 to Jul 2010                                                      
+IBM                                                                                 
 Bogota, Colombia
 
 # Education
-**Master of Data Science** - 2017 to 2018
-RMIT University
-Melbourne, Australia
+**Master of Data Science** - 2017 to 2018                                                      
+RMIT University                                                      
+Melbourne, Australia                                                      
 
-**Bachelor's of Industrial Engineering** - 2004 to 2011
-Escuela Colombiana de Ingenieria
-Bogota, Colombia
+**Bachelor's of Industrial Engineering** - 2004 to 2011                           
+Escuela Colombiana de Ingenieria                                                      
+Bogota, Colombia                                                      
 
 # Licenses & Certifications
-**Tableau 2020 A-Z: Hands-On Tableau Training for Data Science** - July 2020
-Udemy
+**Tableau 2020 A-Z: Hands-On Tableau Training for Data Science** - July 2020                           
+Udemy                                                                                 
 [See Credential](https://www.udemy.com/certificate/UC-878a5780-0d5c-44ef-b6c4-a2229f943dee/)
 
-**Microsoft Power BI - Publishing to Power BI Service** - May 2020
-Udemy
+**Microsoft Power BI - Publishing to Power BI Service** - May 2020                           
+Udemy                                                                                 
 [See Credential](https://www.udemy.com/certificate/UC-784dec9c-b7c4-420c-b0d9-a67311d95e56/)
 
-**Microsoft Power BI - Up & Running With Power BI Desktop** - Apr 2020
-Udemy
+**Microsoft Power BI - Up & Running With Power BI Desktop** - Apr 2020                           
+Udemy                                                                                 
 [See Credential](https://www.udemy.com/certificate/UC-e070c154-2db6-4316-927b-085abaf34d31/)
