@@ -6,3 +6,8 @@ header:
 ---
 
 <div align="center"> Data Science - Data Analytics - Business Intelligence
+
+# Experience
+### Product Representative <div align="right"> Nov 2017 – Present
+#### Pegasus Healthcare
+Melbourne, Australia
