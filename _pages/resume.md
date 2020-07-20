@@ -5,7 +5,7 @@ subtitle: <div align="center"> Data Science - Data Analytics - Business Intellig
 ---
 
 # Experience
-**Product Representative**                                        Nov 2017 to Present                                  
+**Product Representative** - Nov 2017 to Present                                  
 Pegasus Healthcare, Melbourne, Aus
 
 **Grocery Manager & Purchasing Officer** - Oct 2015 to Oct 2017                       
