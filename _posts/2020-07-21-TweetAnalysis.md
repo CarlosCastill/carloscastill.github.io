@@ -468,7 +468,7 @@ plt.show()
 
 
 ![png](output_19_0.png)
-
+![manuni.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/manuni.png)
 
 It is also important to check the twitter’s length through the time, which is visualized on the following graph.
 
