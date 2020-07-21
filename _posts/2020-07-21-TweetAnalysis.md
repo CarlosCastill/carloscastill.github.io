@@ -3,7 +3,7 @@ title: "Sentiment Analysis Project"
 date: 2020-07-21
 tags: [python, twitter, data science, sentiment analysis]
 header:
-  image: "/images/TwitAna/manuni.png"
+  image: 
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
