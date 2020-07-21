@@ -8,7 +8,7 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-![296px-Manchester_United_FC_crest.svg.png](attachment:296px-Manchester_United_FC_crest.svg.png)
+![manuni.png](https://github.com/CarlosCastill/Sentiment_Analysis_Manchester_United_Twitter_Python/blob/master/TweetAnalysis/manuni.png)
 
 # Social Media and Network Analytics Manchester United Twitter Account
 
