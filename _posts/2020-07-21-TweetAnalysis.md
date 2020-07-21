@@ -3,12 +3,12 @@ title: "Sentiment Analysis Project"
 date: 2020-07-21
 tags: [python, twitter, data science, sentiment analysis]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/TwitAna/manuni.png"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-![manuni.png](https://github.com/CarlosCastill/Sentiment_Analysis_Manchester_United_Twitter_Python/blob/master/TweetAnalysis/manuni.png)
+![manuni.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/manuni.png)
 
 # Social Media and Network Analytics Manchester United Twitter Account
 
