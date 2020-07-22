@@ -4,11 +4,11 @@ date: 2020-07-21
 tags: [python, twitter, data science, sentiment analysis]
 header:
   image: 
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "python, twitter, data science, sentiment analysis"
 mathjax: "true"
 ---
 
-![manuni.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/manuni.png)
+![manuni.png] (https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/manuni.png)
 
 # Social Media and Network Analytics Manchester United Twitter Account
 
