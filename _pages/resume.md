@@ -7,7 +7,7 @@ permalink: /resume/
 
 
 
-# Experience
+## Experience
 **Product Representative** - Nov 2017 to Present                                  
 Pegasus Healthcare, Melbourne, Aus
 
@@ -26,14 +26,14 @@ IBM, Bogota, Colombia
 **Internship** Jan 2010 to Jul 2010                                                      
 IBM, Bogota, Colombia
 
-# Education
+## Education
 **Master of Data Science** - 2017 to 2018                                                      
 RMIT University, Melbourne, Aus                                                 
 
 **Bachelor's of Industrial Engineering** - 2004 to 2011                           
 Escuela Colombiana de Ingenieria, Bogota, Colombia                                                      
 
-# Licenses & Certifications
+## Licenses & Certifications
 **Tableau: Hands-On Tableau for Data Science** - July 2020                           
 Udemy [See Credential](https://www.udemy.com/certificate/UC-878a5780-0d5c-44ef-b6c4-a2229f943dee/)
 
@@ -43,12 +43,12 @@ Udemy [See Credential](https://www.udemy.com/certificate/UC-784dec9c-b7c4-420c-b
 **Microsoft Power BI: Power BI Desktop** - Apr 2020                           
 Udemy [See Credential](https://www.udemy.com/certificate/UC-e070c154-2db6-4316-927b-085abaf34d31/)
 
-# Technologies & Skills
-## Programming Languages
+## Technologies & Skills
+### Programming Languages
 - Python
 - SQL
 - R
-## Software
+### Software
 - Excel
 - Tableau
 - PowerBI
