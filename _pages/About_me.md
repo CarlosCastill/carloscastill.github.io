@@ -19,7 +19,7 @@ I was born in [Bogota](https://en.wikipedia.org/wiki/Bogot%C3%A1), which is the 
 
 I moved to [Australia](https://en.wikipedia.org/wiki/Australia) in 2014 with the idea to study English for one year, however, things went better than expected and here I am, I received my Australian permanent residency after 5 years living in this great country. I am currently located in [Melbourne](https://en.wikipedia.org/wiki/Melbourne), but I have also lived in [Perth](https://en.wikipedia.org/wiki/Perth) and [Sydney](https://en.wikipedia.org/wiki/Sydney) for a while.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/Melbourne.JGP)
+![alt]({{ site.url }}{{ site.baseurl }}/images/Melbourne.JPG)
 
 ### What I have done in Australia...
 
