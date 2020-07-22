@@ -47,15 +47,15 @@ Udemy [See Credential](https://www.udemy.com/certificate/UC-784dec9c-b7c4-420c-b
 **Microsoft Power BI: Power BI Desktop** - Apr 2020                           
 Udemy [See Credential](https://www.udemy.com/certificate/UC-e070c154-2db6-4316-927b-085abaf34d31/)
 
-## Technologies & Skills
+# Technologies & Skills
 
-### Programming Languages
+## Programming Languages
 
 - Python
 - SQL
 - R
 
-### Software
+## Software
 
 - Excel
 - Tableau
