@@ -1,7 +1,7 @@
 ---
 title: "Sentiment Analysis Project"
 date: 2020-07-21
-tags: [python, twitter, data science, sentiment analysis]
+tags: [Python, Twitter, Data Science, Sentiment Analysis]
 header:
   image: 
 excerpt: "python, twitter, data science, sentiment analysis"
