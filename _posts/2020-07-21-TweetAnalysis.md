@@ -575,10 +575,9 @@ After obtaining all the Statistics, plots, tables and Models applied over the 10
 
 Firstly, it is important to see what information the Twitter API is providing to plan what sort of analysis are possible to do. In this case we can retrieve ID, Source, Date, Tweet, Likes, Retweets Geo, Coordinates, ect.
 
-The first insight gained was the Twitter average length in the last 1000 tweets for ManUtd FC Account, which is 108.45 words length. We were also able to see the Tweet “What a game. What a win. What a team!” with more Likes (56194), referring to the victory over the biggest rival Liverpool FC. The most retweeted post was “@Ibra_official: Great things also come to an end and it is time to move on after two fantastic seasons with Manchester United. Thank you...”, which had 39440, and refers to the striker departure for the US league, where fans were saying bye to him.
-games
-11
-  Social Media and Network Analytics Manchester United Twitter Account
+The first insight gained was the Twitter average length in the last 1000 tweets for ManUtd FC Account, which is 92 words length. We were also able to see the Tweet “A hero. An inspiration. One of our own. We are so proud of you, @MarcusRashford ❤️ https://t.co/haAb0m2I4u” with more Likes (197739), referring to the recent Marcus Rashford donation to the poor guys in Manchester during the pandemic of 2020. Conincidentially the most retweeted post was the same as the omre liked one with 33131 retweets, which confirms how happy the fans are with Marcus donation.
+
+Social Media and Network Analytics Manchester United Twitter Account
 Having the source of the tweet, it is also important to note that a 56.20 % of the users post their activity through twitter web client, followed by falcon social media management with 23.20%, snappy tv.com with 9.7%, Twitter ads Composer with 9.1% and Twitter for iPhone with 1.8%.
 The variety of topics related to Manchester united were elucidated though the Hashtag frequency and words frequency.
 The most frequents Hashtags are mufc, ucl, facup, mutv, to name a few, and they are referring to the team itself, the UEFA Champions League, the FA Cup and Manchester United TV Channel, which let us understand that the Manchester United twitter account has relationship through hashtags with other independent accounts.
@@ -600,8 +599,8 @@ For example, in the most important topic “mufc old trafford ball alexis_sanche
 ## Conclusions
 
 Manchester United FC is a highly active account, the club has more than 1000 tweets per month.
-Twitter Manchester United’s fans are highly active, liking and retweeting the official Twitter account, the most liked tweet has 56194 and the most retweeted one has 39440.
-Sentiment Analysis allows us to conclude that despite the recent team poor results and bad performance in the pitch home and away, the fans are more inclined to provided positive opinions towards the team though the Twitter account.
+Twitter Manchester United’s fans are highly active, liking and retweeting the official Twitter account, the most liked tweet has 197739 and the most retweeted one has 33131.
+Sentiment Analysis allows us to conclude that despite the team has lost the FA Cup Semifinal against Chelsea FC and is not yet qualified to the 2020/2021 Champions League, the fans are more inclined to provided positive opinions towards the team though the Twitter account.
 Twitter API gives the chance to analyse the unstructured data and apply sentiment algorithms to understand people feelings or opinions towards a specific user or account.
 
 
@@ -776,13 +775,3 @@ print("Percentage de negative tweets: {}%".format(len(neg_tweets)*100/len(data['
     Percentage of neutral tweets: 55.0%
     Percentage de negative tweets: 8.1%
 
-
-
-```python
-
-```
-
-
-```python
-
-```
