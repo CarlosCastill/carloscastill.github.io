@@ -6,8 +6,6 @@ main:
     url: /resume/
   - title: "Projects"
     url: /data-wrangling/
-  - title: "About"
-    url: /About/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"

@@ -4,7 +4,7 @@ subtitle: Data Science - Data Analytics - Business Intelligence
 permalink: /resume/
 ---
 
-### <div align="center">Data Science | Data Analytics |  Business Intelligence  
+## Data Science | Data Analytics |  Business Intelligence  
 
 
 # Experience
