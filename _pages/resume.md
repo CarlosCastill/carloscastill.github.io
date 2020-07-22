@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 
-## Data Science | Data Analytics |  Business Intelligence  
+### Data Science | Data Analytics |  Business Intelligence  
 
 
 # Experience
