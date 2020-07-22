@@ -25,7 +25,7 @@ I moved to [Australia](https://en.wikipedia.org/wiki/Australia) in 2014 with the
 
 During these 5 years in [Australia](https://en.wikipedia.org/wiki/Australia) I decided to do a Master degree in Data Science at [RMIT University](https://www.rmit.edu.au/), which I successfully finished in 2018. This Master degree provided me with a huge set of tools to start my career in the data field, which I wish I can start soon.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/RMIT.JGP)
+![alt]({{ site.url }}{{ site.baseurl }}/images/RMIT.JPG)
 
 ### What I like...
 
@@ -38,6 +38,6 @@ Another dream accomplished in [Australia](https://en.wikipedia.org/wiki/Australi
 My goal is re-start my professional career in [Australia](https://en.wikipedia.org/wiki/Australia), in a role that allows me to develop my career and provide me with plenty of experience, aiming to take these learnings to create my own business.
 In the meantime, I will continue to travel around the world any time I have the chance to.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/thai.jgp)
+![alt]({{ site.url }}{{ site.baseurl }}/images/thai.jpg)
 
 ## And of course, I love watching and playing soccer.
