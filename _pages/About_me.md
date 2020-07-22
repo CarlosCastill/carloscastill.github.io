@@ -19,17 +19,25 @@ I was born in Bogota, which is the capital and largest city from Colombia, where
 
 I moved to Australia in 2014 with the idea to study English for one year, however, things went better than expected and here I am, I received my Australian permanent residency after 5 years living in this great country. I am currently located in Melbourne, but I have also lived in Perth and Sydney for a while.
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/Melbourne.JGP)
+
 ### What I have done in Australia...
 
 During these 5 years in Australia I decided to do a Master degree in Data Science at RMIT University, which I successfully finished in 2018. This Master degree provided me with a huge set of tools to start my career in the data field, which I wish I can start soon.
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/RMIT.JGP)
+
 ### What I like...
 
 Another dream accomplished in Australia was to buy my own motorcycle, which I did at the beginning of 2020, just before the pandemic of COVID 19 started. My big aim is one day to travel all around Australia in my Yamaha Teneré.
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/yamaha.png)
 
 ### What I will do in the short future...
 
 My goal is re-start my professional career in Melbourne, in a role that allows me to develop my career and provide me with plenty of experience, aiming to take these learnings to create my own business.
 In the meantime, I will continue to travel around the world any time I have the chance to.
 
-And of course, I love watching and playing soccer.
+![alt]({{ site.url }}{{ site.baseurl }}/images/thai.jgp)
+
+## And of course, I love watching and playing soccer.
