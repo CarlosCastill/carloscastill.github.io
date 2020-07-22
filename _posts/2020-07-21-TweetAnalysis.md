@@ -4,7 +4,7 @@ date: 2020-07-21
 tags: [Python, Twitter, Data Science, Sentiment Analysis]
 header:
   image: 
-excerpt: "python, twitter, data science, sentiment analysis"
+excerpt: "pPython, Twitter, Data Science, Sentiment Analysis"
 mathjax: "true"
 ---
 
