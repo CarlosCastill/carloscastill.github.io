@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/manuni.png)
-![manuni.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/manuni.png)
+
 
 # Social Media and Network Analytics Manchester United Twitter Account
 
@@ -468,8 +468,8 @@ plt.show()
 ```
 
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA1.png)
 
-![TA1.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/TA1.png)
 
 It is also important to check the twitter’s length through the time, which is visualized on the following graph.
 
@@ -492,7 +492,7 @@ plt.show()
 ```
 
 
-![TA2.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/TA2.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA2.png)
 
 
 Tweets may be Liked or Retweeted, which can be visualized in the following graph through the time.
@@ -508,7 +508,7 @@ plt.show()
 ```
 
 
-![TA3.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/TA3.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA3.png)
 
 
 This source of plots is extremely helpful to understand the user’s behaviour, as we could note when the Manchester United account was more active and could match with particular facts happening in these days.
@@ -566,7 +566,7 @@ plt.show()
 ```
 
 
-![TA4.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/TA4.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA4.png)
 
 
 ## Analysis & Insights
