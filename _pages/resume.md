@@ -1,5 +1,6 @@
 ---
 title: <div align="center"> Resume
+subtitle: Data Science - Data Analytics - Business Intelligence  
 permalink: /resume/
 ---
 ### Data Science - Data Analytics - Business Intelligence
