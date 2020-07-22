@@ -9,6 +9,7 @@ mathjax: "true"
 ---
 
 ![manuni.png](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/TwitAna/manuni.png)
+![manuni.png](https://github.com/CarlosCastill/carloscastill.github.io/images/TwitAna/manuni.png)
 
 # Social Media and Network Analytics Manchester United Twitter Account
 
