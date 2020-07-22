@@ -13,6 +13,8 @@ My full name is Carlos Eduardo Castillo Garzon, I know it is quite long, but tha
 
 I was born in Bogota, which is the capital and largest city from Colombia, where I lived for 28 years of my life. Back in 2011, I finished my Bachelors' degree in Industrial Engineering, which gave me the opportunity to be hired at IBM as an intern, company where I worked for 5 years after graduated and where I acquired most of my professional experience in different roles, such as, Data Analyst, Project Manager and Program Manager.
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/map.png)
+
 ### Where I currently live...
 
 I moved to Australia in 2014 with the idea to study English for one year, however, things went better than expected and here I am, I received my Australian permanent residency after 5 years living in this great country. I am currently located in Melbourne, but I have also lived in Perth and Sydney for a while.
