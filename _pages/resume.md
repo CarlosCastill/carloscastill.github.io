@@ -4,11 +4,8 @@ subtitle: Data Science - Data Analytics - Business Intelligence
 permalink: /resume/
 ---
 
-<<<<<<< HEAD
+
 ## Data Science | Data Analytics |  Business Intelligence  
-=======
-### Data Science | Data Analytics |  Business Intelligence  
->>>>>>> 4d36605ed230a693026c278d69594bcc7586cd02
 
 
 # Experience
