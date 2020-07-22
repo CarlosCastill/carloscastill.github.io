@@ -29,3 +29,5 @@ Another dream accomplished in Australia was to buy my own motorcycle, which I di
 
 My goal is re-start my professional career in Melbourne, in a role that allows me to develop my career and provide me with plenty of experience, aiming to take these learnings to create my own business.
 In the meantime, I will continue to travel around the world any time I have the chance to.
+
+And of course, I love watching and playing soccer.
