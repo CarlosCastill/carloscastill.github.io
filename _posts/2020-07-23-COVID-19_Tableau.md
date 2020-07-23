@@ -3,7 +3,7 @@ title: "COVID-19 Visualization - TABLEAU"
 date: 2020-07-23
 tags: [Tableau, Visualization, Dashboard, COVID-19]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: 
 excerpt: "Tableau, Visualization, Dashboard, COVID-19"
 mathjax: "true"
 ---
