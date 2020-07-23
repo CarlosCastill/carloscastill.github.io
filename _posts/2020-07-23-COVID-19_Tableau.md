@@ -8,7 +8,7 @@ excerpt: "Tableau, Visualization, Dashboard, COVID-19"
 mathjax: "true"
 ---
 
-## [To see the full project in Tableua Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
+### [To see the full project in Tableua Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
 
 This project illustrates a series of visualization from the well know COVID 19 pandemic that is threatening humanity in this 2020. The visualization was made at Worldwide level with data from the 31st of December 2019 to the 22nd of July 2020 using Tableau. The dataset was collected from [Our world in Data](https://ourworldindata.org/).
 
@@ -48,3 +48,5 @@ The previous visualizations provide us with valuable information, however, it is
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_7.png)
 
 Link:
+
+### [To see the full project in Tableua Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
