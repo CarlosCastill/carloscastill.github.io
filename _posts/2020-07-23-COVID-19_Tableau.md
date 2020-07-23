@@ -10,7 +10,7 @@ mathjax: "true"
 
 ### [To see the full project in Tableua Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
 
-This project illustrates a series of visualization from the well know COVID 19 pandemic that is threatening humanity in this 2020. The visualization was made at Worldwide level with data from the 31st of December 2019 to the 22nd of July 2020 using Tableau. The dataset was collected from [Our world in Data](https://ourworldindata.org/).
+This project illustrates a series of visualization from the well know [COVID 19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) pandemic that is threatening humanity in this 2020. The visualization was made at Worldwide level with data from the 31st of December 2019 to the 22nd of July 2020 using [Tableau](https://public.tableau.com/s/). The dataset was collected from [Our world in Data](https://ourworldindata.org/).
 
 With the help of Tableau I created the following visualizations:
 
@@ -45,7 +45,7 @@ One of the biggest benefits from Tableau is that allows the user to animate the 
 
 The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map, as follows:
 
-Click on the image to see the animation video...
+#### [Click on the image to see the animation video...](https://www.youtube.com/watch?v=BOuVtCn5g2Y)
 
 [![IMAGE ALT TEXT HERE]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_7.png)](https://www.youtube.com/watch?v=BOuVtCn5g2Y)
 
