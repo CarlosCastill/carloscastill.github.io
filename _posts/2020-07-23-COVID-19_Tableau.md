@@ -40,7 +40,7 @@ With the help of Tableau I created the following visualizations:
 
 One of the biggest benefits from Tableau is that allows the user to animate the visualizations, hence I created an animated visualization of the previous dashboard, where the date varies from the 31st of December 2019 to the 22nd of July 2020, allowing us to see the COVID 19 behaviour through in a daily basis since the start of it:
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=qWrcgHwSG8M/0.jpg)](https://www.youtube.com/watch?v=qWrcgHwSG8M)
+[![alt]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_6.png)](https://www.youtube.com/watch?v=qWrcgHwSG8M)
 
 
 The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map, as follows:
