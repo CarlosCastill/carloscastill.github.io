@@ -1,5 +1,5 @@
 ---
-title: "Sentiment Analysis Project"
+title: "Sentiment Analysis - Twitter - Manchester United"
 date: 2020-07-21
 tags: [Python, Twitter, Data Science, Sentiment Analysis]
 header:
