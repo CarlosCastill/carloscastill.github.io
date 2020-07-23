@@ -49,6 +49,5 @@ The previous visualizations provide us with valuable information, however, it is
 
 [![IMAGE ALT TEXT HERE]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_7.png)](https://www.youtube.com/watch?v=BOuVtCn5g2Y)
 
-Link:
 
 ### [To see the full project in Tableau Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
