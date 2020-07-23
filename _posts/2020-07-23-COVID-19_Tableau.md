@@ -36,6 +36,8 @@ With the help of Tableau I created the following visualizations:
 
 - With the aid of tableau, I designed a dashboard, where all the visualizations can be gathered together.
 
+#### Click on the image to see the dashboard in Tableau.
+
 [![IMAGE ALT TEXT HERE]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_6.png)](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
 
 One of the biggest benefits from Tableau is that allows the user to animate the visualizations, hence I created an animated visualization of the previous dashboard, where the date varies from the 31st of December 2019 to the 22nd of July 2020, allowing us to see the COVID 19 behaviour through in a daily basis since the start of it:
