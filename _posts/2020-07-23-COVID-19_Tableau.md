@@ -45,11 +45,7 @@ One of the biggest benefits from Tableau is that allows the user to animate the 
 ### [To see the animation in Tableau Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
 
 
-The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map, as follows:
-
-#### [Click on the image to see the animation video...](https://www.youtube.com/watch?v=BOuVtCn5g2Y)
-
-[![IMAGE ALT TEXT HERE]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_7.png)](https://www.youtube.com/watch?v=BOuVtCn5g2Y)
+The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map in the following video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BOuVtCn5g2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
