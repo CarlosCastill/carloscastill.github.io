@@ -7,6 +7,7 @@ permalink: /resume/
 ### To see a more detailed Resume please click [here](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/PDFS/Carlos_Castillo_Resume.pdf).
 this is a change
 ![alt]({{ site.baseurl }}/PDFS/Carlos_Castillo_Resume.pdf)
+<embed src="https://carloscastill.github.io/PFDS/Carlos_Castillo_Resume.pdf" type="application/pdf" />
 
 ### Data Science | Data Analytics |  Business Intelligence  
 
