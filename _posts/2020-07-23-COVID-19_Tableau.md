@@ -51,5 +51,7 @@ The previous visualizations provide us with valuable information, however, it is
 
 [![IMAGE ALT TEXT HERE]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_7.png)](https://www.youtube.com/watch?v=BOuVtCn5g2Y)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BOuVtCn5g2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### [To see the full project in Tableau Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
