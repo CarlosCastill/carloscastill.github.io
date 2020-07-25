@@ -62,3 +62,5 @@ Udemy [See Credential](https://www.udemy.com/certificate/UC-e070c154-2db6-4316-9
 - Excel
 - Tableau
 - PowerBI
+
+ <a href="https://carloscastill.github.io/PDFS/Carlos_Castillo_Resume.pdf" target="_blank">View full Resume Version in PDF</a>
