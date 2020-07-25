@@ -3,7 +3,7 @@ title: <div align="center"> Resume
 subtitle: Data Science - Data Analytics - Business Intelligence  
 permalink: /resume/
 ---
- <a href="carloscastill.github.io/PDFS/Carlos_Castillo_Resume.pdf" target="_blank">View PDF</a>
+ <a href="https://carloscastill.github.io/PDFS/Carlos_Castillo_Resume.pdf" target="_blank">View PDF</a>
 
 ### Data Science | Data Analytics |  Business Intelligence  
 
