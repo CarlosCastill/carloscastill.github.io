@@ -5,7 +5,7 @@ permalink: /resume/
 ---
  <a href="https://carloscastill.github.io/PDFS/Carlos_Castillo_Resume.pdf" target="_blank">View full Resume Version in PDF</a>
 
-#RESUME
+# RESUME
 
 ### Data Science | Data Analytics |  Business Intelligence  
 
