@@ -48,7 +48,7 @@ One of the biggest benefits from Tableau is that allows the user to animate the 
 
 The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map in the following tableau project:
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Covid-19-Animated/Totalnewcasepermillion?:language=en-GB&:display_count=y&:showVizHome=no" width = '800' height = '450'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Covid-19-Animated/Totalnewcasepermillion?:language=en-GB&:display_count=y&:showVizHome=no" width = '800' height = '700'></iframe>
 
 If you like to see the animation with incremented speed, please see the following video:
 
