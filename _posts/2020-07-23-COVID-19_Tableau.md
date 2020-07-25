@@ -40,20 +40,17 @@ With the help of Tableau I created the following visualizations:
 
 [![IMAGE ALT TEXT HERE]({{ site.url }}{{ site.baseurl }}/images/Covid/COVID_6.png)](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
 
-  
 
-<iframe src="https://public.tableau.com/views/Covid-19-Animated/WorldwideCovid19?:language=en-GB&:display_count=y&:origin=viz_share_link" width = '650' height = '450'></iframe>
-
+One of the biggest benefits from Tableau is that allows the user to animate the visualizations, hence I created an animated visualization of the previous dashboard, where the date varies from the 31st of December 2019 to the 22nd of July 2020, allowing us to see the COVID 19 behaviour through in a daily basis since the start of it:
 
 <iframe src="https://public.tableau.com/views/Covid-19-Animated/WorldwideCovid19?:language=en-GB&:display_count=y&:showVizHome=no" width = '650' height = '450'></iframe>
 
 
-One of the biggest benefits from Tableau is that allows the user to animate the visualizations, hence I created an animated visualization of the previous dashboard, where the date varies from the 31st of December 2019 to the 22nd of July 2020, allowing us to see the COVID 19 behaviour through in a daily basis since the start of it:
+The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map in the following tableau project:
 
-### [To see the animation in Tableau Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
+<iframe src="https://public.tableau.com/views/Covid-19-Animated/Totalnewcasepermillion?:language=en-GB&:display_count=y&:showVizHome=no" width = '650' height = '450'></iframe>
 
-
-The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map in the following video:
+If you like to see the animation with incremented speed, please see the following video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BOuVtCn5g2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
