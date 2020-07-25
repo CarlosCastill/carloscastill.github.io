@@ -43,12 +43,12 @@ With the help of Tableau I created the following visualizations:
 
 One of the biggest benefits from Tableau is that allows the user to animate the visualizations, hence I created an animated visualization of the previous dashboard, where the date varies from the 31st of December 2019 to the 22nd of July 2020, allowing us to see the COVID 19 behaviour through in a daily basis since the start of it:
 
-<iframe src="https://public.tableau.com/views/Covid-19-Animated/WorldwideCovid19?:language=en-GB&:display_count=y&:showVizHome=no" width = '650' height = '450'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Covid-19-Animated/WorldwideCovid19?:language=en-GB&:display_count=y&:showVizHome=no" width = '800' height = '1000'></iframe>
 
 
 The previous visualizations provide us with valuable information, however, it is highly important to visualize the number of cases per million of population, where we will be able to see the real impact of the pandemic per country on a map in the following tableau project:
 
-<iframe src="https://public.tableau.com/views/Covid-19-Animated/Totalnewcasepermillion?:language=en-GB&:display_count=y&:showVizHome=no" width = '650' height = '450'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Covid-19-Animated/Totalnewcasepermillion?:language=en-GB&:display_count=y&:showVizHome=no" width = '650' height = '450'></iframe>
 
 If you like to see the animation with incremented speed, please see the following video:
 
