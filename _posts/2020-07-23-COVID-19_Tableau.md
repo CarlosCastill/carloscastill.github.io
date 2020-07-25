@@ -45,6 +45,9 @@ With the help of Tableau I created the following visualizations:
 <iframe src="https://public.tableau.com/views/Covid-19-Animated/WorldwideCovid19?:language=en-GB&:display_count=y&:origin=viz_share_link" width = '650' height = '450'></iframe>
 
 
+<iframe src="https://public.tableau.com/views/Covid-19-Animated/WorldwideCovid19?:language=en-GB&:display_count=y&:showVizHome=no" width = '650' height = '450'></iframe>
+
+
 One of the biggest benefits from Tableau is that allows the user to animate the visualizations, hence I created an animated visualization of the previous dashboard, where the date varies from the 31st of December 2019 to the 22nd of July 2020, allowing us to see the COVID 19 behaviour through in a daily basis since the start of it:
 
 ### [To see the animation in Tableau Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
