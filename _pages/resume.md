@@ -4,9 +4,9 @@ subtitle: Data Science - Data Analytics - Business Intelligence
 permalink: /resume/
 ---
 
-### To see a more detailed Resume please click [here](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/images/Resume/Carlos_Castillo_Resume.pdf).
+### To see a more detailed Resume please click [here](https://github.com/CarlosCastill/carloscastill.github.io/blob/master/PDFS/Carlos_Castillo_Resume.pdf).
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/Resume/Carlos_Castillo_Resume.pdf)
+![alt]({{ site.baseurl }}/PDFS/Carlos_Castillo_Resume.pdf)
 
 ### Data Science | Data Analytics |  Business Intelligence  
 
