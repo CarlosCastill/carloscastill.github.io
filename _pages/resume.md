@@ -8,6 +8,7 @@ permalink: /resume/
 this is a change
 ![alt]({{ site.baseurl }}/PDFS/Carlos_Castillo_Resume.pdf)
 here <embed src="https://carloscastill.github.io/PDFS/Carlos_Castillo_Resume.pdf" type="application/pdf" />
+here 2  <a href="https://carloscastill.github.io/PDFS/Carlos_Castillo_Resume.pdf">
 
 ### Data Science | Data Analytics |  Business Intelligence  
 
