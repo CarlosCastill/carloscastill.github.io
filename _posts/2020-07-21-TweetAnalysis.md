@@ -13,7 +13,7 @@ mathjax: "true"
 
 # Social Media and Network Analytics Manchester United Twitter Account
 
-Nowadays, soccer is one of the most trending topics in newspapers, social media, Sports TV and radio, and even more if it is related to the English tournament, which is the most powerful one.
+<div style="text-align: justify"> Nowadays, soccer is one of the most trending topics in newspapers, social media, Sports TV and radio, and even more if it is related to the English tournament, which is the most powerful one.
 This project will focus its attention in Manchester United FC Twitter account, as it is the biggest club in England. The Accountancy firm Deloitte estimates that Manchester United has 75 million fans worldwide, while other estimates put this figure closer to 333 million . The club also has 71
 million fans in social media, which makes it the third football club with most social media followers in the world after Real Madrid and Barcelona.
 
@@ -21,7 +21,7 @@ This project will consist in extract Data from Twitter, clean it, visualize it a
 
 Thankfully Twitter provides their own API that allows users to collect information from a particular account Time Line or topic, among others.
 The data collection technique used for this analysis was REST, which allows the users to query a twitter account only by registering in the API site. Note that when registering, the API will generate a set of Keys(passwords) that would allow you to pull the data required.
-The data collected was stored in a .json file , that allows the user to query any single feature in the Twitter corpus in order to analyse the downloaded dataset.
+The data collected was stored in a .json file , that allows the user to query any single feature in the Twitter corpus in order to analyse the downloaded dataset.</div>
 
 - Note: For this excersice we are only extracting the last 1000 tweets.
 
