@@ -23,7 +23,7 @@ header:
 
 ### What I have done in Australia...
 
-During these 5 years in <a href="https://en.wikipedia.org/wiki/Australia">Australia</a> I decided to do a Master degree in Data Science at <a href="https://www.rmit.edu.au/">RMIT University</a>, which I successfully finished in 2018. This Master degree provided me with a huge set of tools to start my career in the data field, which I wish I can start soon.</div>
+<div style="text-align: justify">During these 5 years in <a href="https://en.wikipedia.org/wiki/Australia">Australia</a> I decided to do a Master degree in Data Science at <a href="https://www.rmit.edu.au/">RMIT University</a>, which I successfully finished in 2018. This Master degree provided me with a huge set of tools to start my career in the data field, which I wish I can start soon.</div>
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/RMIT.JPG)
 
