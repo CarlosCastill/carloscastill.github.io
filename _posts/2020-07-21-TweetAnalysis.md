@@ -8,7 +8,7 @@ excerpt: "Python, Twitter, Data Science, Sentiment Analysis"
 mathjax: "true"
 ---
 
-<div style="text-align: center">![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/manuni.png)</div>
+![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/manuni.png)
 
 
 # Social Media and Network Analytics Manchester United Twitter Account
