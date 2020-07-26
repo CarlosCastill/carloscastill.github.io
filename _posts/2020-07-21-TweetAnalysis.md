@@ -15,11 +15,11 @@ mathjax: "true"
 
 <div style="text-align: justify"> Nowadays, soccer is one of the most trending topics in newspapers, social media, Sports TV and radio, and even more if it is related to the English tournament, which is the most powerful one.
 This project will focus its attention in Manchester United FC Twitter account, as it is the biggest club in England. The Accountancy firm Deloitte estimates that Manchester United has 75 million fans worldwide, while other estimates put this figure closer to 333 million . The club also has 71
-million fans in social media, which makes it the third football club with most social media followers in the world after Real Madrid and Barcelona.
+million fans in social media, which makes it the third football club with most social media followers in the world after Real Madrid and Barcelona.</div>
 
-This project will consist in extract Data from Twitter, clean it, visualize it and finally get some insights.
+<div style="text-align: justify"> This project will consist in extract Data from Twitter, clean it, visualize it and finally get some insights.</div>
 
-Thankfully Twitter provides their own API that allows users to collect information from a particular account Time Line or topic, among others.
+<div style="text-align: justify"> Thankfully Twitter provides their own API that allows users to collect information from a particular account Time Line or topic, among others.
 The data collection technique used for this analysis was REST, which allows the users to query a twitter account only by registering in the API site. Note that when registering, the API will generate a set of Keys(passwords) that would allow you to pull the data required.
 The data collected was stored in a .json file , that allows the user to query any single feature in the Twitter corpus in order to analyse the downloaded dataset.</div>
 
@@ -193,7 +193,7 @@ print(tweets[0]['entities'])
     {'hashtags': [{'text': 'MUFC', 'indices': [85, 90]}], 'symbols': [], 'user_mentions': [], 'urls': []}
 
 
-After checking which information was pulled from the relevant fields, I continue to include the relevant fields to the previously created dataframe and print again the first Ten tweets:
+<div style="text-align: justify"> After checking which information was pulled from the relevant fields, I continue to include the relevant fields to the previously created dataframe and print again the first Ten tweets:
 
 
 ```python
@@ -346,7 +346,7 @@ display(data.head(10))
 </table>
 </div>
 
-After creating the full dataframe, I will continue to extract interesting information available as follows using Numpy package:
+<div style="text-align: justify"> After creating the full dataframe, I will continue to extract interesting information available as follows using Numpy package:</div>
 
 - The Tweet with more likes and its word length:
 
@@ -391,7 +391,7 @@ print("{} characters.\n".format(data['len'][rt]))
     Number of retweets: 33131
     107 characters.
 
-Having the Length of the Twitters, how many likes and retweets they can have, allowed me to retrieve the average Twitter’s length:
+<div style="text-align: justify"> Having the Length of the Twitters, how many likes and retweets they can have, allowed me to retrieve the average Twitter’s length:</div>
 
 - Average Length of twitters in Manchester United Account:
 
@@ -410,7 +410,7 @@ print("The lenght's average in tweets: {}".format(mean))
     The length's average in tweets: 92.554
 
 
-Other useful information is the user action source, which let us know how users are posting their tweets, as in the following pie Chart.
+<div style="text-align: justify"> Other useful information is the user action source, which let us know how users are posting their tweets, as in the following pie Chart.</div>
 
 
 ```python
@@ -462,7 +462,7 @@ plt.show()
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA1.png)
 
 
-It is also important to check the twitter’s length through the time, which is visualized on the following graph.
+<div style="text-align: justify"> It is also important to check the twitter’s length through the time, which is visualized on the following graph.</div>
 
 
 ```python
@@ -486,7 +486,7 @@ plt.show()
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA2.png)
 
 
-It is also interesting how the Tweets are Liked or Retweeted  through the time, which can be visualized in the following graph.
+<div style="text-align: justify"> It is also interesting how the Tweets are Liked or Retweeted  through the time, which can be visualized in the following graph.</div>
 
 
 ```python
@@ -502,15 +502,15 @@ plt.show()
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA3.png)
 
 
-This source of plots is extremely helpful to understand the user’s behaviour, as we could note when the Manchester United account was more active and could match with particular facts happening in these days.
+<div style="text-align: justify"> This source of plots is extremely helpful to understand the user’s behaviour, as we could note when the Manchester United account was more active and could match with particular facts happening in these days.</div>
 
-For example, the chart elucidates that there was an event that made the Manchester United followers be more active around the 17th of June of this year, in terms of Likes, which match with the re-start of the Premier League after the COVID-19 shutdown.
+<div style="text-align: justify"> For example, the chart elucidates that there was an event that made the Manchester United followers be more active around the 17th of June of this year, in terms of Likes, which match with the re-start of the Premier League after the COVID-19 shutdown.</div>
 
 ### Sentiment Analysis
 
-In order to identify what are the perceptions and feelings towards Manchester United, the use of unsupervised sentiment analysis on a set of Tweets was performed, using the Textblob approach.
+<div style="text-align: justify"> In order to identify what are the perceptions and feelings towards Manchester United, the use of unsupervised sentiment analysis on a set of Tweets was performed, using the Textblob approach.</div>
 
-This approach is basically the same as word counting but uses an algorithm that has an integrated dictionary of positive and negative words and only classifies the tweets as Positive 1, negative 0 or neutral 0, as follow:
+<div style="text-align: justify"> This approach is basically the same as word counting but uses an algorithm that has an integrated dictionary of positive and negative words and only classifies the tweets as Positive 1, negative 0 or neutral 0, as follow:</div>
 
 
 ```python
@@ -553,7 +553,7 @@ plt.show()
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TwitAna/TA4.png)
 
-Once we have the sentiment per tweet, I print the full data frame with the new SA field to see the results of this analysis in our full dataframe.
+<div style="text-align: justify"> Once we have the sentiment per tweet, I print the full data frame with the new SA field to see the results of this analysis in our full dataframe.</div>
 
 ```python
 # display the updated dataframe with the new column:
@@ -727,8 +727,11 @@ print("Percentage de negative tweets: {}%".format(len(neg_tweets)*100/len(data['
     Percentage de negative tweets: 8.1%
 
 
-After obtaining all the Statistics, plots, tables and Models applied over the 1000 tweets in the Official Manchester United Twitter account, we can conclude that Manchester United FC is a highly active account.
-Twitter Manchester United’s fans are highly active, liking and retweeting the official Twitter account, the most liked tweet has 197739 and the most retweeted one has 33131.
-Sentiment Analysis allows us to conclude that despite the team has lost the FA Cup Semifinal against Chelsea FC and is not yet qualified to the 2020/2021 Champions League, the fans are more inclined to provided positive opinions towards the team though the Twitter account.
-Twitter API gives the chance to analyse the unstructured data and apply sentiment algorithms to understand people feelings or opinions towards a specific user or account.
+<div style="text-align: justify"> After obtaining all the Statistics, plots, tables and Models applied over the 1000 tweets in the Official Manchester United Twitter account, we can conclude that Manchester United FC is a highly active account.</div>
+  
+<div style="text-align: justify"> Twitter Manchester United’s fans are highly active, liking and retweeting the official Twitter account, the most liked tweet has 197739 and the most retweeted one has 33131.</div>
+  
+<div style="text-align: justify"> Sentiment Analysis allows us to conclude that despite the team has lost the FA Cup Semifinal against Chelsea FC and is not yet qualified to the 2020/2021 Champions League, the fans are more inclined to provided positive opinions towards the team though the Twitter account.</div>
+  
+<div style="text-align: justify"> Twitter API gives the chance to analyse the unstructured data and apply sentiment algorithms to understand people feelings or opinions towards a specific user or account.</div>
 
