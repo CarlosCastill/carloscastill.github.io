@@ -8,10 +8,6 @@ excerpt: "Tableau, Visualization, Dashboard, COVID-19"
 mathjax: "true"
 ---
 
-### [To see the full project in Tableau Public please click here!](https://public.tableau.com/profile/carlos.castillo8041#!/vizhome/Covid-19-Animated/WorldwideCovid19)
-
-<div style="text-align: justify"> My full name is Carlos Eduardo Castillo Garzon, I know it is quite long, but that is the way in my home country; <a href="https://en.wikipedia.org/wiki/Colombia">Colombia</a>. By the way, you can simply call me Carlos.</div>
-
 <div style="text-align: justify">This project illustrates a series of visualization from the well know <a href="https://en.wikipedia.org/wiki/Coronavirus_disease_2019">COVID 19</a> pandemic that is threatening humanity in this 2020. The visualization was made at Worldwide level with data from the 31st of December 2019 to the 22nd of July 2020 using <a href="https://public.tableau.com/s/">Tableau</a>. The dataset was collected from <a href="https://ourworldindata.org/">Our world in Data</a>.</div>
 
 With the help of Tableau I created the following visualizations:
