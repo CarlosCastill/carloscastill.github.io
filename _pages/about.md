@@ -6,7 +6,7 @@ header:
 ---
 
 ### Who I am...
-My full name is Carlos Eduardo Castillo Garzon, I know it is quite long, but that is the way in my home country; [Colombia](https://en.wikipedia.org/wiki/Colombia). By the way, you can simply call me Carlos.
+<div style="text-align: justify"> My full name is Carlos Eduardo Castillo Garzon, I know it is quite long, but that is the way in my home country; <a href="https://en.wikipedia.org/wiki/Colombia">Colombia</a>. By the way, you can simply call me Carlos.</div>
 
 ### My background...
 
