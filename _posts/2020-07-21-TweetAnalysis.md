@@ -193,7 +193,7 @@ print(tweets[0]['entities'])
     {'hashtags': [{'text': 'MUFC', 'indices': [85, 90]}], 'symbols': [], 'user_mentions': [], 'urls': []}
 
 
-<div style="text-align: justify"> After checking which information was pulled from the relevant fields, I continue to include the relevant fields to the previously created dataframe and print again the first Ten tweets:
+<div style="text-align: justify"> After checking which information was pulled from the relevant fields, I continue to include the relevant fields to the previously created dataframe and print again the first Ten tweets:</div>
 
 
 ```python
