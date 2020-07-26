@@ -727,8 +727,6 @@ print("Percentage de negative tweets: {}%".format(len(neg_tweets)*100/len(data['
     Percentage de negative tweets: 8.1%
 
 
-## Analysis & Insights
-
 After obtaining all the Statistics, plots, tables and Models applied over the 1000 tweets in the Official Manchester United Twitter account, we can conclude that Manchester United FC is a highly active account.
 Twitter Manchester United’s fans are highly active, liking and retweeting the official Twitter account, the most liked tweet has 197739 and the most retweeted one has 33131.
 Sentiment Analysis allows us to conclude that despite the team has lost the FA Cup Semifinal against Chelsea FC and is not yet qualified to the 2020/2021 Champions League, the fans are more inclined to provided positive opinions towards the team though the Twitter account.
